@@ -7,5 +7,7 @@ public class Bami {
         System.out.println("Enter your name");
         String x=input.nextLine();
         System.out.println(x);
+
+        System.out.println("Hello");
     }
 }
