@@ -5,6 +5,7 @@ public class Bami {
         Scanner input= new Scanner(System.in);
 
         System.out.println("Enter your name");
-        input.nextLine();
+        String x=input.nextLine();
+        System.out.println(x);
     }
 }
