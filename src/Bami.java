@@ -11,5 +11,6 @@ public class Bami {
         System.out.println("Hello");
         System.out.println("Hi");
         System.out.println("Expedition 33");
+        System.out.println("Clair Obscur");
     }
 }
