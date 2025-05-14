@@ -14,5 +14,7 @@ public class Deathwing {
 
         System.out.println("Good Idea!");
 
+        System.out.println("Bad Idea!");
+
     }
 }
