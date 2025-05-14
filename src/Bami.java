@@ -9,5 +9,6 @@ public class Bami {
         System.out.println(x);
 
         System.out.println("Hello");
+        System.out.println("Hi");
     }
 }
