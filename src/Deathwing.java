@@ -12,5 +12,7 @@ public class Deathwing {
             System.out.println("You are " + x + " years old.");
         }
 
+        System.out.println("Good Idea!");
+
     }
 }
